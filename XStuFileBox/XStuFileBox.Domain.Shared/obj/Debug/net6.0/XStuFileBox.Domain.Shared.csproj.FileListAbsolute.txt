@@ -1,0 +1,11 @@
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Domain.Shared\bin\Debug\net6.0\XStuFileBox.Domain.Shared.deps.json
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Domain.Shared\bin\Debug\net6.0\XStuFileBox.Domain.Shared.dll
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Domain.Shared\bin\Debug\net6.0\ref\XStuFileBox.Domain.Shared.dll
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Domain.Shared\bin\Debug\net6.0\XStuFileBox.Domain.Shared.pdb
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Domain.Shared\obj\Debug\net6.0\XStuFileBox.Domain.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Domain.Shared\obj\Debug\net6.0\XStuFileBox.Domain.Shared.AssemblyInfoInputs.cache
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Domain.Shared\obj\Debug\net6.0\XStuFileBox.Domain.Shared.AssemblyInfo.cs
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Domain.Shared\obj\Debug\net6.0\XStuFileBox.Domain.Shared.csproj.CoreCompileInputs.cache
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Domain.Shared\obj\Debug\net6.0\XStuFileBox.Domain.Shared.dll
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Domain.Shared\obj\Debug\net6.0\ref\XStuFileBox.Domain.Shared.dll
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Domain.Shared\obj\Debug\net6.0\XStuFileBox.Domain.Shared.pdb

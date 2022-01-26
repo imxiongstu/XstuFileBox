@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "XStuFileBox.Domain/1.0.0": {
+        "runtime": {
+          "XStuFileBox.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "XStuFileBox.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

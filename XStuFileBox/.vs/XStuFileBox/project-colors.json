@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "be397411-814e-4076-a814-3f0053bae245": {
+      "ProjectGuid": "be397411-814e-4076-a814-3f0053bae245",
+      "DisplayName": "XStuFileBox.HttpApi",
+      "ColorIndex": 0
+    },
+    "6af9cef9-e8fa-4f4e-9bff-83e7d40938d1": {
+      "ProjectGuid": "6af9cef9-e8fa-4f4e-9bff-83e7d40938d1",
+      "DisplayName": "XStuFileBox.AuthServer",
+      "ColorIndex": 1
+    },
+    "5a17bdac-289e-427e-90bc-d329047fc5ca": {
+      "ProjectGuid": "5a17bdac-289e-427e-90bc-d329047fc5ca",
+      "DisplayName": "XStuFileBox.Domain",
+      "ColorIndex": 2
+    },
+    "bdebcf28-5e57-4498-8996-9eb14218991f": {
+      "ProjectGuid": "bdebcf28-5e57-4498-8996-9eb14218991f",
+      "DisplayName": "XStuFileBox.Domain.Shared",
+      "ColorIndex": 3
+    },
+    "d05cb89f-ef28-47fb-a9cf-da199fc8db2f": {
+      "ProjectGuid": "d05cb89f-ef28-47fb-a9cf-da199fc8db2f",
+      "DisplayName": "XStuFileBox.Application",
+      "ColorIndex": 4
+    },
+    "14b13d47-f95b-4dac-a9f7-e1ca9ba3d6f1": {
+      "ProjectGuid": "14b13d47-f95b-4dac-a9f7-e1ca9ba3d6f1",
+      "DisplayName": "XStuFileBox.Application.Contracts",
+      "ColorIndex": 5
+    },
+    "5cbe2440-71ef-4f9c-b7d0-73802e09f2e7": {
+      "ProjectGuid": "5cbe2440-71ef-4f9c-b7d0-73802e09f2e7",
+      "DisplayName": "XStuFileBox.EntityFrameworkCore",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

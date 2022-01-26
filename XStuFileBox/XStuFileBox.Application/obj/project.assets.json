@@ -1,0 +1,128 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "XStuFileBox.Application.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/XStuFileBox.Application.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/XStuFileBox.Application.Contracts.dll": {}
+        }
+      },
+      "XStuFileBox.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "XStuFileBox.Domain.Shared": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/XStuFileBox.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/XStuFileBox.Domain.dll": {}
+        }
+      },
+      "XStuFileBox.Domain.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/XStuFileBox.Domain.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/XStuFileBox.Domain.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "XStuFileBox.Application.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../XStuFileBox.Application.Contracts/XStuFileBox.Application.Contracts.csproj",
+      "msbuildProject": "../XStuFileBox.Application.Contracts/XStuFileBox.Application.Contracts.csproj"
+    },
+    "XStuFileBox.Domain/1.0.0": {
+      "type": "project",
+      "path": "../XStuFileBox.Domain/XStuFileBox.Domain.csproj",
+      "msbuildProject": "../XStuFileBox.Domain/XStuFileBox.Domain.csproj"
+    },
+    "XStuFileBox.Domain.Shared/1.0.0": {
+      "type": "project",
+      "path": "../XStuFileBox.Domain.Shared/XStuFileBox.Domain.Shared.csproj",
+      "msbuildProject": "../XStuFileBox.Domain.Shared/XStuFileBox.Domain.Shared.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "XStuFileBox.Application.Contracts >= 1.0.0",
+      "XStuFileBox.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\安之眼\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\XiongLianYu\\XstuFileBox\\XStuFileBox\\XStuFileBox.Application\\XStuFileBox.Application.csproj",
+      "projectName": "XStuFileBox.Application",
+      "projectPath": "D:\\XiongLianYu\\XstuFileBox\\XStuFileBox\\XStuFileBox.Application\\XStuFileBox.Application.csproj",
+      "packagesPath": "C:\\Users\\安之眼\\.nuget\\packages\\",
+      "outputPath": "D:\\XiongLianYu\\XstuFileBox\\XStuFileBox\\XStuFileBox.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\安之眼\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://192.168.1.53:8085/nuget": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\XiongLianYu\\XstuFileBox\\XStuFileBox\\XStuFileBox.Application.Contracts\\XStuFileBox.Application.Contracts.csproj": {
+              "projectPath": "D:\\XiongLianYu\\XstuFileBox\\XStuFileBox\\XStuFileBox.Application.Contracts\\XStuFileBox.Application.Contracts.csproj"
+            },
+            "D:\\XiongLianYu\\XstuFileBox\\XStuFileBox\\XStuFileBox.Domain\\XStuFileBox.Domain.csproj": {
+              "projectPath": "D:\\XiongLianYu\\XstuFileBox\\XStuFileBox\\XStuFileBox.Domain\\XStuFileBox.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

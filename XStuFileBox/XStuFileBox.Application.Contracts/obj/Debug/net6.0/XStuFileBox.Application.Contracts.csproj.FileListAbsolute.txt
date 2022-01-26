@@ -1,0 +1,11 @@
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Application.Contracts\bin\Debug\net6.0\XStuFileBox.Application.Contracts.deps.json
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Application.Contracts\bin\Debug\net6.0\XStuFileBox.Application.Contracts.dll
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Application.Contracts\bin\Debug\net6.0\ref\XStuFileBox.Application.Contracts.dll
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Application.Contracts\bin\Debug\net6.0\XStuFileBox.Application.Contracts.pdb
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Application.Contracts\obj\Debug\net6.0\XStuFileBox.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Application.Contracts\obj\Debug\net6.0\XStuFileBox.Application.Contracts.AssemblyInfoInputs.cache
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Application.Contracts\obj\Debug\net6.0\XStuFileBox.Application.Contracts.AssemblyInfo.cs
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Application.Contracts\obj\Debug\net6.0\XStuFileBox.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Application.Contracts\obj\Debug\net6.0\XStuFileBox.Application.Contracts.dll
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Application.Contracts\obj\Debug\net6.0\ref\XStuFileBox.Application.Contracts.dll
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Application.Contracts\obj\Debug\net6.0\XStuFileBox.Application.Contracts.pdb

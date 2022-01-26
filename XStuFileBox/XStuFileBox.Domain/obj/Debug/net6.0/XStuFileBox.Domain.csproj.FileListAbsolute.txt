@@ -1,0 +1,11 @@
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Domain\bin\Debug\net6.0\XStuFileBox.Domain.deps.json
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Domain\bin\Debug\net6.0\XStuFileBox.Domain.dll
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Domain\bin\Debug\net6.0\ref\XStuFileBox.Domain.dll
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Domain\bin\Debug\net6.0\XStuFileBox.Domain.pdb
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Domain\obj\Debug\net6.0\XStuFileBox.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Domain\obj\Debug\net6.0\XStuFileBox.Domain.AssemblyInfoInputs.cache
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Domain\obj\Debug\net6.0\XStuFileBox.Domain.AssemblyInfo.cs
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Domain\obj\Debug\net6.0\XStuFileBox.Domain.csproj.CoreCompileInputs.cache
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Domain\obj\Debug\net6.0\XStuFileBox.Domain.dll
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Domain\obj\Debug\net6.0\ref\XStuFileBox.Domain.dll
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Domain\obj\Debug\net6.0\XStuFileBox.Domain.pdb
