@@ -296,8 +296,17 @@
         }
       },
       "XStuFileBox.Domain/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.1",
+          "XStuFileBox.Domain.Shared": "1.0.0"
+        },
         "runtime": {
           "XStuFileBox.Domain.dll": {}
+        }
+      },
+      "XStuFileBox.Domain.Shared/1.0.0": {
+        "runtime": {
+          "XStuFileBox.Domain.Shared.dll": {}
         }
       }
     }
@@ -505,6 +514,11 @@
       "hashPath": "system.text.json.6.0.0.nupkg.sha512"
     },
     "XStuFileBox.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "XStuFileBox.Domain.Shared/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\XStuFileBox.Application.Contracts\XStuFileBox.Application.Contracts.csproj" />
+    <ProjectReference Include="..\XStuFileBox.Domain\XStuFileBox.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

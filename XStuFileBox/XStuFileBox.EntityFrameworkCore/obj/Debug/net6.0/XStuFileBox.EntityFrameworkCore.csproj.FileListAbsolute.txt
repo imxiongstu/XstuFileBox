@@ -16,3 +16,5 @@ D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.EntityFrameworkCore\obj\Debug
 D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.EntityFrameworkCore\obj\Debug\net6.0\ref\XStuFileBox.EntityFrameworkCore.dll
 D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.EntityFrameworkCore\obj\Debug\net6.0\XStuFileBox.EntityFrameworkCore.pdb
 D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.EntityFrameworkCore\obj\Debug\net6.0\XStuFileBox.EntityFrameworkCore.genruntimeconfig.cache
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.EntityFrameworkCore\bin\Debug\net6.0\XStuFileBox.Domain.Shared.dll
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.EntityFrameworkCore\bin\Debug\net6.0\XStuFileBox.Domain.Shared.pdb

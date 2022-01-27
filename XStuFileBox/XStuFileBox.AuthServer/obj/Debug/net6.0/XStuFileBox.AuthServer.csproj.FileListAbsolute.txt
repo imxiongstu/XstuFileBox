@@ -10,7 +10,6 @@ D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.AuthServer\bin\Debug\net6.0\M
 D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.AuthServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.AuthServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.AuthServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.AuthServer\obj\Debug\net6.0\XStuFileBox.AuthServer.csproj.AssemblyReference.cache
 D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.AuthServer\obj\Debug\net6.0\XStuFileBox.AuthServer.GeneratedMSBuildEditorConfig.editorconfig
 D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.AuthServer\obj\Debug\net6.0\XStuFileBox.AuthServer.AssemblyInfoInputs.cache
 D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.AuthServer\obj\Debug\net6.0\XStuFileBox.AuthServer.AssemblyInfo.cs
@@ -25,3 +24,4 @@ D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.AuthServer\obj\Debug\net6.0\X
 D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.AuthServer\obj\Debug\net6.0\ref\XStuFileBox.AuthServer.dll
 D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.AuthServer\obj\Debug\net6.0\XStuFileBox.AuthServer.pdb
 D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.AuthServer\obj\Debug\net6.0\XStuFileBox.AuthServer.genruntimeconfig.cache
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.AuthServer\obj\Debug\net6.0\XStuFileBox.AuthServer.csproj.AssemblyReference.cache

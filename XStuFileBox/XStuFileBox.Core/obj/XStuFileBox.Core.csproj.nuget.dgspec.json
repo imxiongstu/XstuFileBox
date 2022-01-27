@@ -1,0 +1,271 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\XiongLianYu\\XstuFileBox\\XStuFileBox\\XStuFileBox.Core\\XStuFileBox.Core.csproj": {}
+  },
+  "projects": {
+    "D:\\XiongLianYu\\XstuFileBox\\XStuFileBox\\XStuFileBox.Core\\XStuFileBox.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\XiongLianYu\\XstuFileBox\\XStuFileBox\\XStuFileBox.Core\\XStuFileBox.Core.csproj",
+        "projectName": "XStuFileBox.Core",
+        "projectPath": "D:\\XiongLianYu\\XstuFileBox\\XStuFileBox\\XStuFileBox.Core\\XStuFileBox.Core.csproj",
+        "packagesPath": "C:\\Users\\安之眼\\.nuget\\packages\\",
+        "outputPath": "D:\\XiongLianYu\\XstuFileBox\\XStuFileBox\\XStuFileBox.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\安之眼\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://192.168.1.53:8085/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\XiongLianYu\\XstuFileBox\\XStuFileBox\\XStuFileBox.Domain\\XStuFileBox.Domain.csproj": {
+                "projectPath": "D:\\XiongLianYu\\XstuFileBox\\XStuFileBox\\XStuFileBox.Domain\\XStuFileBox.Domain.csproj"
+              },
+              "D:\\XiongLianYu\\XstuFileBox\\XStuFileBox\\XStuFileBox.EntityFrameworkCore\\XStuFileBox.EntityFrameworkCore.csproj": {
+                "projectPath": "D:\\XiongLianYu\\XstuFileBox\\XStuFileBox\\XStuFileBox.EntityFrameworkCore\\XStuFileBox.EntityFrameworkCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Autofac.Extras.DynamicProxy": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\XiongLianYu\\XstuFileBox\\XStuFileBox\\XStuFileBox.Domain.Shared\\XStuFileBox.Domain.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\XiongLianYu\\XstuFileBox\\XStuFileBox\\XStuFileBox.Domain.Shared\\XStuFileBox.Domain.Shared.csproj",
+        "projectName": "XStuFileBox.Domain.Shared",
+        "projectPath": "D:\\XiongLianYu\\XstuFileBox\\XStuFileBox\\XStuFileBox.Domain.Shared\\XStuFileBox.Domain.Shared.csproj",
+        "packagesPath": "C:\\Users\\安之眼\\.nuget\\packages\\",
+        "outputPath": "D:\\XiongLianYu\\XstuFileBox\\XStuFileBox\\XStuFileBox.Domain.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\安之眼\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://192.168.1.53:8085/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\XiongLianYu\\XstuFileBox\\XStuFileBox\\XStuFileBox.Domain\\XStuFileBox.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\XiongLianYu\\XstuFileBox\\XStuFileBox\\XStuFileBox.Domain\\XStuFileBox.Domain.csproj",
+        "projectName": "XStuFileBox.Domain",
+        "projectPath": "D:\\XiongLianYu\\XstuFileBox\\XStuFileBox\\XStuFileBox.Domain\\XStuFileBox.Domain.csproj",
+        "packagesPath": "C:\\Users\\安之眼\\.nuget\\packages\\",
+        "outputPath": "D:\\XiongLianYu\\XstuFileBox\\XStuFileBox\\XStuFileBox.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\安之眼\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://192.168.1.53:8085/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\XiongLianYu\\XstuFileBox\\XStuFileBox\\XStuFileBox.Domain.Shared\\XStuFileBox.Domain.Shared.csproj": {
+                "projectPath": "D:\\XiongLianYu\\XstuFileBox\\XStuFileBox\\XStuFileBox.Domain.Shared\\XStuFileBox.Domain.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\XiongLianYu\\XstuFileBox\\XStuFileBox\\XStuFileBox.EntityFrameworkCore\\XStuFileBox.EntityFrameworkCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\XiongLianYu\\XstuFileBox\\XStuFileBox\\XStuFileBox.EntityFrameworkCore\\XStuFileBox.EntityFrameworkCore.csproj",
+        "projectName": "XStuFileBox.EntityFrameworkCore",
+        "projectPath": "D:\\XiongLianYu\\XstuFileBox\\XStuFileBox\\XStuFileBox.EntityFrameworkCore\\XStuFileBox.EntityFrameworkCore.csproj",
+        "packagesPath": "C:\\Users\\安之眼\\.nuget\\packages\\",
+        "outputPath": "D:\\XiongLianYu\\XstuFileBox\\XStuFileBox\\XStuFileBox.EntityFrameworkCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\安之眼\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://192.168.1.53:8085/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\XiongLianYu\\XstuFileBox\\XStuFileBox\\XStuFileBox.Domain\\XStuFileBox.Domain.csproj": {
+                "projectPath": "D:\\XiongLianYu\\XstuFileBox\\XStuFileBox\\XStuFileBox.Domain\\XStuFileBox.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

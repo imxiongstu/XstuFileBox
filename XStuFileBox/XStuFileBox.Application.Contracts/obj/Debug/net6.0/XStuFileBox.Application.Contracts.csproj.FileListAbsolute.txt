@@ -9,3 +9,4 @@ D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Application.Contracts\obj\Deb
 D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Application.Contracts\obj\Debug\net6.0\XStuFileBox.Application.Contracts.dll
 D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Application.Contracts\obj\Debug\net6.0\ref\XStuFileBox.Application.Contracts.dll
 D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Application.Contracts\obj\Debug\net6.0\XStuFileBox.Application.Contracts.pdb
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Application.Contracts\obj\Debug\net6.0\XStuFileBox.Application.Contracts.csproj.AssemblyReference.cache

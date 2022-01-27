@@ -11,7 +11,7 @@ using XStuFileBox.EntityFrameworkCore.EntityFrameworkCore;
 namespace XStuFileBox.EntityFrameworkCore.Migrations
 {
     [DbContext(typeof(XStuFileBoxDbContext))]
-    [Migration("20220126085030_init")]
+    [Migration("20220127032157_init")]
     partial class init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -40,7 +40,6 @@ namespace XStuFileBox.EntityFrameworkCore.Migrations
                         .HasColumnType("datetime(6)");
 
                     b.Property<string>("Email")
-                        .IsRequired()
                         .HasColumnType("longtext");
 
                     b.Property<bool>("IsDeleted")
@@ -50,19 +49,15 @@ namespace XStuFileBox.EntityFrameworkCore.Migrations
                         .HasColumnType("datetime(6)");
 
                     b.Property<string>("NickName")
-                        .IsRequired()
                         .HasColumnType("longtext");
 
                     b.Property<string>("PasswordHash")
-                        .IsRequired()
                         .HasColumnType("longtext");
 
                     b.Property<string>("PhoneNumber")
-                        .IsRequired()
                         .HasColumnType("longtext");
 
                     b.Property<string>("UserName")
-                        .IsRequired()
                         .HasColumnType("longtext");
 
                     b.HasKey("Id");

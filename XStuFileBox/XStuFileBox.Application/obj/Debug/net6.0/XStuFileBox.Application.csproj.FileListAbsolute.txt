@@ -9,3 +9,11 @@ D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Application\obj\Debug\net6.0\
 D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Application\obj\Debug\net6.0\XStuFileBox.Application.dll
 D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Application\obj\Debug\net6.0\ref\XStuFileBox.Application.dll
 D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Application\obj\Debug\net6.0\XStuFileBox.Application.pdb
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Application\bin\Debug\net6.0\XStuFileBox.Application.Contracts.dll
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Application\bin\Debug\net6.0\XStuFileBox.Domain.dll
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Application\bin\Debug\net6.0\XStuFileBox.Domain.Shared.dll
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Application\bin\Debug\net6.0\XStuFileBox.Application.Contracts.pdb
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Application\bin\Debug\net6.0\XStuFileBox.Domain.pdb
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Application\bin\Debug\net6.0\XStuFileBox.Domain.Shared.pdb
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Application\obj\Debug\net6.0\XStuFileBox.Application.csproj.AssemblyReference.cache
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Application\obj\Debug\net6.0\XStuFileBox.Application.csproj.CopyComplete

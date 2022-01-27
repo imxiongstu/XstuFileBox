@@ -17,10 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XStuFileBox.Application.Con
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XStuFileBox.EntityFrameworkCore", "XStuFileBox.EntityFrameworkCore\XStuFileBox.EntityFrameworkCore.csproj", "{5CBE2440-71EF-4F9C-B7D0-73802E09F2E7}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{02DCA092-103F-4075-AC82-39EFF5FF3839}"
-	ProjectSection(SolutionItems) = preProject
-		.editorconfig = .editorconfig
-	EndProjectSection
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XStuFileBox.Common", "XStuFileBox.Common\XStuFileBox.Common.csproj", "{1570D1DB-24B2-47D8-AC6C-9B7E6D1AD8EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XStuFileBox.Core", "XStuFileBox.Core\XStuFileBox.Core.csproj", "{05CB679B-0F95-4D58-9A1F-B55AE345D43C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -56,6 +55,14 @@ Global
 		{5CBE2440-71EF-4F9C-B7D0-73802E09F2E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CBE2440-71EF-4F9C-B7D0-73802E09F2E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CBE2440-71EF-4F9C-B7D0-73802E09F2E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1570D1DB-24B2-47D8-AC6C-9B7E6D1AD8EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1570D1DB-24B2-47D8-AC6C-9B7E6D1AD8EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1570D1DB-24B2-47D8-AC6C-9B7E6D1AD8EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1570D1DB-24B2-47D8-AC6C-9B7E6D1AD8EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05CB679B-0F95-4D58-9A1F-B55AE345D43C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05CB679B-0F95-4D58-9A1F-B55AE345D43C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05CB679B-0F95-4D58-9A1F-B55AE345D43C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05CB679B-0F95-4D58-9A1F-B55AE345D43C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

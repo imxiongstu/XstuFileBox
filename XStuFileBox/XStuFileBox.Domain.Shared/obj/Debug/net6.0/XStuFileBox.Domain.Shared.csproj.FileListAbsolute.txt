@@ -9,3 +9,4 @@ D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Domain.Shared\obj\Debug\net6.
 D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Domain.Shared\obj\Debug\net6.0\XStuFileBox.Domain.Shared.dll
 D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Domain.Shared\obj\Debug\net6.0\ref\XStuFileBox.Domain.Shared.dll
 D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Domain.Shared\obj\Debug\net6.0\XStuFileBox.Domain.Shared.pdb
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Domain.Shared\obj\Debug\net6.0\XStuFileBox.Domain.Shared.csproj.AssemblyReference.cache

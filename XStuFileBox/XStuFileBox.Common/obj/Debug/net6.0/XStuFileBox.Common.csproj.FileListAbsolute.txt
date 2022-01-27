@@ -1,0 +1,12 @@
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Common\bin\Debug\net6.0\XStuFileBox.Common.deps.json
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Common\bin\Debug\net6.0\XStuFileBox.Common.dll
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Common\bin\Debug\net6.0\ref\XStuFileBox.Common.dll
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Common\bin\Debug\net6.0\XStuFileBox.Common.pdb
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Common\obj\Debug\net6.0\XStuFileBox.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Common\obj\Debug\net6.0\XStuFileBox.Common.AssemblyInfoInputs.cache
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Common\obj\Debug\net6.0\XStuFileBox.Common.AssemblyInfo.cs
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Common\obj\Debug\net6.0\XStuFileBox.Common.csproj.CoreCompileInputs.cache
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Common\obj\Debug\net6.0\XStuFileBox.Common.dll
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Common\obj\Debug\net6.0\ref\XStuFileBox.Common.dll
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Common\obj\Debug\net6.0\XStuFileBox.Common.pdb
+D:\XiongLianYu\XstuFileBox\XStuFileBox\XStuFileBox.Common\obj\Debug\net6.0\XStuFileBox.Common.csproj.AssemblyReference.cache

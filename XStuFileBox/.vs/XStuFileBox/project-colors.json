@@ -35,7 +35,22 @@
       "ProjectGuid": "5cbe2440-71ef-4f9c-b7d0-73802e09f2e7",
       "DisplayName": "XStuFileBox.EntityFrameworkCore",
       "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "1570d1db-24b2-47d8-ac6c-9b7e6d1ad8eb": {
+      "ProjectGuid": "1570d1db-24b2-47d8-ac6c-9b7e6d1ad8eb",
+      "DisplayName": "XStuFileBox.Common",
+      "ColorIndex": 7
+    },
+    "05cb679b-0f95-4d58-9a1f-b55ae345d43c": {
+      "ProjectGuid": "05cb679b-0f95-4d58-9a1f-b55ae345d43c",
+      "DisplayName": "XStuFileBox.Core",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 9
 }

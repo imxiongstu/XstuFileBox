@@ -395,6 +395,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.1",
           "XStuFileBox.Domain.Shared": "1.0.0"
         },
         "compile": {
